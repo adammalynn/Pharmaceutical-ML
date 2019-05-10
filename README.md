@@ -3,6 +3,10 @@ group 8 final project
 
 In pharmacy, the relationship of  active chemical ingredients is very important. When this relationship is stressed by factors like temperature and time it is even more important to ensure that what goes into our body to save life is pure enough to be effective.
 
+Link to our slides:
+https://docs.google.com/presentation/d/1ZHqO7lkLoE6KyZjuqbLH0tTtVS6mDmwLmcyZ1RHekwk/edit?usp=sharing
+
+
 Lumab.csv was used to check the purity of the medication.
 - Deamidation is a type of test for impurity.
 - Entry in the csv refers to impurity measurement.
