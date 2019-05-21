@@ -9,7 +9,7 @@ What contributes to our product variability?
 Can we detect an unexpected trend or a single outlier from several different measures?
 - Detecting an outlier or sharp trend on an x/y axis isn’t particularly difficult.  However, we have multiple measures for our process. Rather than generate control charts for each of them, we use an autoencoder neural network to encode a single “health score” for the process.  This allows us to monitor a single trace and detect values or trends as they exceed a specified threshold.  Given a model trained on the results from historical lots we detect if a new batch is trending up or down.
 
-Methods and Tools:
+## Methods and Tools
  
 Pulling the data:
 - Oracle queries
